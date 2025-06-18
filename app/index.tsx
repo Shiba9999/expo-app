@@ -11,6 +11,7 @@ export default function Index() {
       }}
     >
       <Text>Welcome</Text>
+      
     </View>
   );
 }
